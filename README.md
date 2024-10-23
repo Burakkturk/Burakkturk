@@ -42,6 +42,16 @@
   </div>
 </div>
 
+Projects      |Libraries and Technologies     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[Movie App](https://movie-app-177.netlify.app/) | ReactJS, React Router, Firebase, Tailwind, Toastify, tw-elements, TheMovieDb API [Click to see repo](https://github.com/Burakkturk/movie-app) | <img src="https://github.com/Burakkturk/movie-app/blob/main/movie-app.gif" width="430" height="240" alt="movie app"/> <div/>
+[Stock App](https://mryldrm-stock.netlify.app/) | ReactJS, Redux TK and Persist, Axios, Material UI, Formik, Yup, Toastify, Emotion/react, Tremor/react [Click to see repo](https://github.com/omeryilldirim/Stock-App) | <img src="https://github.com/omeryilldirim/Stock-App/blob/main/src/assets/stock-app.gif" width="430" height="240" alt="stock app"/>
+[Nba App](https://nba-app-1.netlify.app/) | ReactJS, Tailwind, HTML [Click to see repo](https://github.com/Burakkturk/nba-app) | <img src="https://github.com/Burakkturk/nba-app/blob/main/NBA-Legends-app.gif" width="430" height="240" alt="nba app"/>
+[Tutorial App](https://tutorial-app17.netlify.app/) | ReactJS, React Router, HTML, Tailwind [Click to see repo](https://github.com/Burakkturk/Tutorial-App) | <img src="https://github.com/Burakkturk/Tutorial-App/blob/main/Tutorial-App.gif" width="430" height="240" alt="tutorial app"/>
+[BT Library App](https://bt-library.netlify.app/) | ReactJS, React Router, HTML [Click to see repo](https://github.com/Burakkturk/BT-Library) | <img src="https://github.com/Burakkturk/BT-Library/blob/main/BT-Library.gif" width="430" height="240" alt="bt library app"/>
+[Appointment App](https://appointment17.netlify.app/) | HTML, ReactJS, Bootstrap, CSS [Click to see repo](https://github.com/Burakkturk/appointment)| <img src="https://github.com/Burakkturk/appointment/blob/main/Appointment-app.gif" width="430" height="250" alt="appointment app"/>
+[Parallax Website](https://omeryilldirim.github.io/Parallax-Website/) | HTML, CSS [Click to see repo](https://github.com/omeryilldirim/Parallax-Website)| <img src="https://github.com/omeryilldirim/Parallax-Website/blob/main/parallax-website.gif" width="430" height="250" alt="parallax website"/>
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Burakkturk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Burakkturk&theme=radical&hide_border=false)<br/>
